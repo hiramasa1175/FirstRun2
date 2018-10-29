@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "374796805988",
+    "firebase_url": "https://hiramasa-218807.firebaseio.com",
+    "project_id": "hiramasa-218807",
+    "storage_bucket": "hiramasa-218807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374796805988:android:770b1b39e4a3054a",
+        "android_client_info": {
+          "package_name": "jp.hiramasa.firstrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374796805988-n3ipu9rqut6sfrdukv95g1lcbcgs22n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrBHIwUZSPZoiKdIgDO1cK04QeLqYVGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8221838827607460~8884445270"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374796805988:android:5ac1964e9c335171",
+        "android_client_info": {
+          "package_name": "jp.hiramasa.firstrun2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374796805988-n3ipu9rqut6sfrdukv95g1lcbcgs22n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrBHIwUZSPZoiKdIgDO1cK04QeLqYVGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374796805988:android:13ac8fd3208896b8",
+        "android_client_info": {
+          "package_name": "jp.hiramasa.secondrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374796805988-n3ipu9rqut6sfrdukv95g1lcbcgs22n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrBHIwUZSPZoiKdIgDO1cK04QeLqYVGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
